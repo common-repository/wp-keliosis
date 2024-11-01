@@ -1,0 +1,230 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Keliosis\n"
+"POT-Creation-Date: 2020-11-20 10:36+0100\n"
+"PO-Revision-Date: 2020-11-20 10:36+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-keliosis.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: lang\n"
+"X-Poedit-SearchPathExcluded-3: assets\n"
+
+#. Plugin Name of the plugin/theme
+#: inc/admin/admin_menu.inc.php:20 inc/admin/admin_menu.inc.php:21
+msgid "WP Keliosis"
+msgstr "WP Keliosis"
+
+#: inc/admin/admin_menu.inc.php:32 inc/admin/admin_menu.inc.php:33
+#: views/dashboard.php:18
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+#: inc/admin/admin_menu.inc.php:42 inc/admin/admin_menu.inc.php:43
+#: views/email.php:18
+msgid "Email"
+msgstr "Email"
+
+#: inc/admin/admin_menu.inc.php:52 inc/admin/admin_menu.inc.php:53
+#: views/medias.php:18
+msgid "Medias"
+msgstr "Médias"
+
+#: inc/admin/admin_menu.inc.php:62 inc/admin/admin_menu.inc.php:63
+#: views/changelog.php:21
+msgid "Changelog"
+msgstr "Changelog"
+
+#: inc/admin/ui/translations.inc.php:19
+msgid "Saved changes"
+msgstr "Sauvegardé"
+
+#: inc/admin/ui/translations.inc.php:20
+msgid "Your changes have been successfully saved !"
+msgstr "Vos changements ont été sauvegardés avec succès !"
+
+#: inc/admin/ui/translations.inc.php:21
+msgid "Warning"
+msgstr "Avertissement"
+
+#: inc/admin/ui/translations.inc.php:22
+msgid "No change detected. Update canceled."
+msgstr "Aucun changement détecté. Mise à jour annulée."
+
+#: inc/admin/ui/translations.inc.php:23
+msgid "Error"
+msgstr "Erreur"
+
+#: inc/admin/ui/translations.inc.php:24
+msgid ""
+"The update could not be completed correctly. If the problem persists, "
+"contact the developer."
+msgstr ""
+"La mise à jour n'a pas pu être effectuée correctement. Si le problème "
+"persiste, contactez le développeur."
+
+#: views/changelog.php:36
+msgid "Version"
+msgstr "Version"
+
+#: views/changelog.php:53
+msgid "Added"
+msgstr "Ajouté"
+
+#: views/changelog.php:57
+msgid "Changed"
+msgstr "Modifié"
+
+#: views/changelog.php:61
+msgid "Deprecated"
+msgstr "Obsolètes"
+
+#: views/changelog.php:65
+msgid "Fixed"
+msgstr "Fixé"
+
+#: views/changelog.php:69
+msgid "Removed"
+msgstr "Supprimé"
+
+#: views/changelog.php:73
+msgid "Security"
+msgstr "Sécurité"
+
+#: views/dashboard.php:26
+msgid "Welcome to WP Keliosis !"
+msgstr "Bienvenue sur WP-Keliosis!"
+
+#: views/dashboard.php:28
+msgid "This plugin was created for only purpose : Make life easier."
+msgstr "Ce plugin a été créé pour un seul but : rendre la vie plus facile."
+
+#: views/dashboard.php:29
+msgid ""
+"Thanks to a whole panel of options, distributed among differents sections of "
+"WordPress environment, you will be able to modify default options to give "
+"more power and personnalisation to your WordPress site."
+msgstr ""
+"Grâce à tout un panel d’options, réparties entre différentes sections de "
+"l’environnement WordPress, vous serez en mesure de modifier les options par "
+"défaut pour donner plus de puissance et de personnalisation à votre site "
+"WordPress."
+
+#: views/dashboard.php:30
+msgid ""
+"All options are available in the menu on the left and their explanations "
+"have been added to each of them."
+msgstr ""
+"Toutes les options sont disponibles dans le menu à gauche et leurs "
+"explications ont été ajoutées à chacune d'entre elles."
+
+#: views/dashboard.php:36
+msgid "is now available !"
+msgstr "est maintenant disponible !"
+
+#: views/dashboard.php:38
+msgid "Check changelog section to know more."
+msgstr "Consultez la section changelog pour en savoir plus."
+
+#: views/dashboard.php:39
+msgid "Read changelog"
+msgstr "Lire changelog"
+
+#: views/dashboard.php:44
+msgid "Support"
+msgstr "Support"
+
+#: views/dashboard.php:46
+msgid "Need help or any suggestions to improve the plugin ?"
+msgstr "Besoin d'aide ou de suggestions pour améliorer le plugin ?"
+
+#: views/dashboard.php:47
+msgid "Ask your questions/suggestions on our forum."
+msgstr "Posez vos questions/suggestions sur notre forum."
+
+#: views/dashboard.php:48
+msgid "Go to support"
+msgstr "Aller sur le support"
+
+#: views/email.php:32
+msgid "Default information for email"
+msgstr "Informations paour email par défaut"
+
+#: views/email.php:37
+msgid "Author name"
+msgstr "Nom de l’auteur"
+
+#: views/email.php:43
+msgid "Change default author 'WordPress' by your custom author name."
+msgstr ""
+"Modifiez l’auteur par défaut 'WordPress' par votre nom d’auteur personnalisé."
+
+#: views/email.php:49
+msgid "Author email"
+msgstr "Email de l'auteur"
+
+#: views/email.php:54
+msgid "Change default email 'wordpress@...' by your custom email."
+msgstr ""
+"Modifier l'e-mail par défaut 'wordpress@...' par votre e-mail personnalisé."
+
+#: views/email.php:63 views/medias.php:48
+msgid "Save changes"
+msgstr "Sauvegarder les modifications"
+
+#: views/medias.php:30
+msgid "Rewrite filename"
+msgstr "Réécrire le nom de fichier"
+
+#: views/medias.php:35
+msgid "Active this option to rewrite filename during upload."
+msgstr ""
+"Activez cette option pour réécrire le nom de fichier pendant le chargement."
+
+#: views/medias.php:38
+msgid "Enabling this option to turn filename into a web optimized filename."
+msgstr ""
+"Activer cette option pour transformer le nom de fichier en un nom de fichier "
+"optimisé pour le Web."
+
+#: views/medias.php:39
+msgid "Example : F@_pf42çfèdg.JPG in f-pf42cfedg.jpg"
+msgstr "Exemple : F@_pf42çfèdg. JPG en f-pf42cfedg.jpg"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/wp-keliosis/"
+msgstr "https://wordpress.org/plugins/wp-keliosis/"
+
+#. Description of the plugin/theme
+msgid "The best all-in-one plugin to customize default options of WordPress."
+msgstr ""
+"Le meilleur plugin tout-en-un pour personnaliser les options par défaut de "
+"WordPress."
+
+#. Author of the plugin/theme
+msgid "Florian Valois"
+msgstr "Florian Valois"
+
+#. Author URI of the plugin/theme
+msgid "https://florian-valois.com"
+msgstr "https://florian-valois.com"
+
+#~ msgid "Email default notification"
+#~ msgstr "Email par"
+
+#~ msgid "Images"
+#~ msgstr "Images"

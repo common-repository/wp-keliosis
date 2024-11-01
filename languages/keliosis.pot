@@ -1,0 +1,209 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: WP Keliosis\n"
+"POT-Creation-Date: 2020-11-20 10:36+0100\n"
+"PO-Revision-Date: 2020-09-25 12:55+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-keliosis.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: node_modules\n"
+"X-Poedit-SearchPathExcluded-2: lang\n"
+"X-Poedit-SearchPathExcluded-3: assets\n"
+
+#. Plugin Name of the plugin/theme
+#: inc/admin/admin_menu.inc.php:20 inc/admin/admin_menu.inc.php:21
+msgid "WP Keliosis"
+msgstr ""
+
+#: inc/admin/admin_menu.inc.php:32 inc/admin/admin_menu.inc.php:33
+#: views/dashboard.php:18
+msgid "Dashboard"
+msgstr ""
+
+#: inc/admin/admin_menu.inc.php:42 inc/admin/admin_menu.inc.php:43
+#: views/email.php:18
+msgid "Email"
+msgstr ""
+
+#: inc/admin/admin_menu.inc.php:52 inc/admin/admin_menu.inc.php:53
+#: views/medias.php:18
+msgid "Medias"
+msgstr ""
+
+#: inc/admin/admin_menu.inc.php:62 inc/admin/admin_menu.inc.php:63
+#: views/changelog.php:21
+msgid "Changelog"
+msgstr ""
+
+#: inc/admin/ui/translations.inc.php:19
+msgid "Saved changes"
+msgstr ""
+
+#: inc/admin/ui/translations.inc.php:20
+msgid "Your changes have been successfully saved !"
+msgstr ""
+
+#: inc/admin/ui/translations.inc.php:21
+msgid "Warning"
+msgstr ""
+
+#: inc/admin/ui/translations.inc.php:22
+msgid "No change detected. Update canceled."
+msgstr ""
+
+#: inc/admin/ui/translations.inc.php:23
+msgid "Error"
+msgstr ""
+
+#: inc/admin/ui/translations.inc.php:24
+msgid ""
+"The update could not be completed correctly. If the problem persists, "
+"contact the developer."
+msgstr ""
+
+#: views/changelog.php:36
+msgid "Version"
+msgstr ""
+
+#: views/changelog.php:53
+msgid "Added"
+msgstr ""
+
+#: views/changelog.php:57
+msgid "Changed"
+msgstr ""
+
+#: views/changelog.php:61
+msgid "Deprecated"
+msgstr ""
+
+#: views/changelog.php:65
+msgid "Fixed"
+msgstr ""
+
+#: views/changelog.php:69
+msgid "Removed"
+msgstr ""
+
+#: views/changelog.php:73
+msgid "Security"
+msgstr ""
+
+#: views/dashboard.php:26
+msgid "Welcome to WP Keliosis !"
+msgstr ""
+
+#: views/dashboard.php:28
+msgid "This plugin was created for only purpose : Make life easier."
+msgstr ""
+
+#: views/dashboard.php:29
+msgid ""
+"Thanks to a whole panel of options, distributed among differents sections "
+"of WordPress environment, you will be able to modify default options to "
+"give more power and personnalisation to your WordPress site."
+msgstr ""
+
+#: views/dashboard.php:30
+msgid ""
+"All options are available in the menu on the left and their explanations "
+"have been added to each of them."
+msgstr ""
+
+#: views/dashboard.php:36
+msgid "is now available !"
+msgstr ""
+
+#: views/dashboard.php:38
+msgid "Check changelog section to know more."
+msgstr ""
+
+#: views/dashboard.php:39
+msgid "Read changelog"
+msgstr ""
+
+#: views/dashboard.php:44
+msgid "Support"
+msgstr ""
+
+#: views/dashboard.php:46
+msgid "Need help or any suggestions to improve the plugin ?"
+msgstr ""
+
+#: views/dashboard.php:47
+msgid "Ask your questions/suggestions on our forum."
+msgstr ""
+
+#: views/dashboard.php:48
+msgid "Go to support"
+msgstr ""
+
+#: views/email.php:32
+msgid "Default information for email"
+msgstr ""
+
+#: views/email.php:37
+msgid "Author name"
+msgstr ""
+
+#: views/email.php:43
+msgid "Change default author 'WordPress' by your custom author name."
+msgstr ""
+
+#: views/email.php:49
+msgid "Author email"
+msgstr ""
+
+#: views/email.php:54
+msgid "Change default email 'wordpress@...' by your custom email."
+msgstr ""
+
+#: views/email.php:63 views/medias.php:48
+msgid "Save changes"
+msgstr ""
+
+#: views/medias.php:30
+msgid "Rewrite filename"
+msgstr ""
+
+#: views/medias.php:35
+msgid "Active this option to rewrite filename during upload."
+msgstr ""
+
+#: views/medias.php:38
+msgid "Enabling this option to turn filename into a web optimized filename."
+msgstr ""
+
+#: views/medias.php:39
+msgid "Example : F@_pf42çfèdg.JPG in f-pf42cfedg.jpg"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/wp-keliosis/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "The best all-in-one plugin to customize default options of WordPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Florian Valois"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://florian-valois.com"
+msgstr ""
